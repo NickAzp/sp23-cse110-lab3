@@ -48,7 +48,6 @@ header {
   color: rgb(0,0,255);
 }
 
-/*
 h1, h2, h3 {
   font-size: 0.4in;
   padding-top: 10px;
@@ -57,7 +56,6 @@ h1, h2, h3 {
   padding-left: 100px;
   display: inline;
 }
-*/
 
 a[href*="https"]:active {
   border: 5px solid pink;
