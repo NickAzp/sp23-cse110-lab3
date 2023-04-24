@@ -35,4 +35,7 @@ h1 > p {
   font-family: "Copperplate";
 }
 
+section + hr {
+  background-color: red;
+}
 
