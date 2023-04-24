@@ -22,3 +22,7 @@ h1, h2, h3 {
 a[href*="https"] {
   border: 5px solid pink;
 }
+
+a.highlight:hover {
+  color: yellow;
+}
