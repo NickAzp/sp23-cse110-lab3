@@ -26,3 +26,13 @@ a[href*="https"] {
 a.highlight:hover {
   color: #FFFF00;
 }
+
+h1 p {
+  background-color: pink;
+}
+
+h1 > p {
+  font-family: "Copperplate";
+}
+
+
