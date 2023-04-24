@@ -50,8 +50,8 @@ a[href*="https"] {
   border: 5px solid pink;
 }
 
-a[href*="https"].highlight:hover {
-  color: #FFFF00;
+main:hover {
+  background-color: #FFFF00;
 }
 
 h1 p {
