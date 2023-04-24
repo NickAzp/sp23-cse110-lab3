@@ -3,6 +3,10 @@
 #red {
   color: red;
   font-size: 2.5cm;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 .centered {
@@ -38,9 +42,10 @@ h1 p {
   background-color: pink;
 }
 
-h1 > p {
+datalist > option {
   font-size: 0.5%;
   font-family: "Copperplate";
+  margin: 50px 50px 50px 50px;
 }
 
 section + hr {
@@ -48,7 +53,7 @@ section + hr {
   background-color: red;
 }
 
-selection ~ option {
+select ~ option {
   background-color: red;
 }
 
