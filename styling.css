@@ -26,6 +26,11 @@ header {
 h1, h2, h3 {
   font-size: 0.4in;
   text-align: left;
+  margin: auto;
+  padding-top: 50px;
+  padding-right: 10px;
+  padding-bottom: 50px;
+  padding-left: 10px;
 }
 
 a[href*="https"] {
@@ -46,6 +51,11 @@ datalist > option {
   font-size: 0.5%;
   font-family: "Copperplate";
   margin: 50px 50px 50px 50px;
+  padding: 75x 75x 75x 75x;
+  border-style: dotted;
+  border-width: thick;
+  border-color: blue;
+  border-radius: 5px;
 }
 
 section + hr {
