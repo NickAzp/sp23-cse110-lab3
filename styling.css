@@ -7,6 +7,7 @@
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  text-decoration-line: underline;
 }
 
 .centered {
@@ -37,7 +38,7 @@ a[href*="https"] {
   border: 5px solid pink;
 }
 
-a.highlight:hover {
+a[href*="https"].highlight:hover {
   color: #FFFF00;
 }
 
