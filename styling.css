@@ -7,12 +7,12 @@
 }
 
 * {
-  color: black;
+  color: hsl(0,0,0);
 }
 
 header {
   text-align: center;
-  color: blue;
+  color: rgb(0,0,255);
 }
 
 h1, h2, h3 {
@@ -24,5 +24,5 @@ a[href*="https"] {
 }
 
 a.highlight:hover {
-  color: yellow;
+  color: #FFFF00;
 }
