@@ -60,7 +60,7 @@ h1 p {
   background-color: pink;
 }
 
-datalist + option {
+h1 + p {
   font-size: 0.5%;
   font-family: "Copperplate";
   margin: 50px 50px 50px 50px;
