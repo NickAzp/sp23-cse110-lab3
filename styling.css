@@ -39,3 +39,10 @@ section + hr {
   background-color: red;
 }
 
+selection ~ option {
+  background-color: red;
+}
+
+h1.centered {
+  background-color: blue;
+}
